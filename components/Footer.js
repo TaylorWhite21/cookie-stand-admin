@@ -1,6 +1,6 @@
 export default function Footer(props) {
   return (
-    <footer className="p-4 mt-8 bg-teal-400">
+    <footer className="mt-8 bg-teal-400 p-4">
       <nav>
         <p>&copy; 2022</p>
       </nav>
