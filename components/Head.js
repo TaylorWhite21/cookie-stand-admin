@@ -1,8 +1,8 @@
 export default function Head(props) {
   return (
-    <Head>
+    <div className="">
       <title>Cookie Stand Admin</title>
       <link rel="icon" href="/favicon.ico" />
-    </Head>
+    </div>
   )
 }
