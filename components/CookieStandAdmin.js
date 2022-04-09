@@ -28,7 +28,7 @@ export default function CookieStandAdmin(props) {
       <Main />
       <CreateForm addStore={addStore} />
       <ReportTable store={storeList} />
-      <Footer />
+      <Footer stores={storeList} />
     </div>
   )
 }
