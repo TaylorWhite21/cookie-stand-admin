@@ -1,7 +1,7 @@
 # Cookie Stand Admin
 
 Author: Taylor White  
-Readme Template: [Kassie Bradshaw](ttps://github.com/kassiebradshaw/cookie-stand-admin/blob/main/README.md)
+Readme Template: [Kassie Bradshaw](https://github.com/kassiebradshaw/cookie-stand-admin/blob/main/README.md)
 
 ## Lab 37: Welcome to React, Next.js & TailwindCSS
 
