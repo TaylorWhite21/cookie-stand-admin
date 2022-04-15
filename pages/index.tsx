@@ -1,12 +1,12 @@
 import type { NextPage } from 'next'
-import CookieStandAdmin from '../components/CookieStandAdmin'
+import Home from '../components/Home'
 
-const Home: NextPage = () => {
+const HomePage: NextPage = () => {
   return (
     <div className="">
-      <CookieStandAdmin/>
+      <Home/>
     </div>
   )
 }
 
-export default Home
+export default HomePage

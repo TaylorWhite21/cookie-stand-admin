@@ -2,6 +2,8 @@
 
 Author: Taylor White  
 Readme Template: [Kassie Bradshaw](https://github.com/kassiebradshaw/cookie-stand-admin/blob/main/README.md)
+https://dev.to/ms_yogii/getting-started-with-tailwind-and-react-a-simple-login-form-tutorial-1lk8
+https://www.geeksforgeeks.org/how-to-align-form-elements-to-center-using-tailwind-css/
 
 ## Lab 37: Welcome to React, Next.js & TailwindCSS
 
